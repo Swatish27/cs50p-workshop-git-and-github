@@ -41,8 +41,8 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
     1. Create a few new files with the `$ code <filename>` command.
     1. Repeat the steps from the previous task to create new commits, and observe how the staging area is changing, and new commits appear in the commit tree timeline.
 
-- [ ] Practice Git commands: command-line (CLI) commands
-  - [ ] First CLI commit
+- [x] Practice Git commands: command-line (CLI) commands
+  - [x] First CLI commit
     1. In your VSCode, edit the `README.md` file e.g. add a new line or check off a completed task.
     2. Create a two new file like `$ code prog1.py prog2.py` and write something in them
     3. Observe changes files with `$ git status` and with `$ git diff`.
