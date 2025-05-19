@@ -22,8 +22,8 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 - [x] Create a new codespaces with VSCode for your repo
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
 
-- [ ] Practice Git commands: VSCode Source Control GUI
-  - [ ] Change one file
+- [x] Practice Git commands: VSCode Source Control GUI
+  - [x] Change one file
     1. In your VSCode, switch to the Source Control view in the left sidebar (Ctrl+Shift+G)
     1. In your VSCode, edit the `README.md` file e.g. add a new line or check off a completed task.
        * Observe that the `README.md` file is marked as "changed" in the Source Control view.
