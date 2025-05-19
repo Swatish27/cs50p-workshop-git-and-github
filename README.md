@@ -37,7 +37,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
          * Observe that your new commit is listed.
          * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
 
-  - [ ] Change several files
+  - [x] Change several files
     1. Create a few new files with the `$ code <filename>` command.
     1. Repeat the steps from the previous task to create new commits, and observe how the staging area is changing, and new commits appear in the commit tree timeline.
 
